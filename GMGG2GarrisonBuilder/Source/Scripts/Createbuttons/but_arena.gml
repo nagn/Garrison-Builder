@@ -1,0 +1,4 @@
+{
+    createToolButton(ArenaControlPoint);
+    createToolButton(CapturePoint);
+}

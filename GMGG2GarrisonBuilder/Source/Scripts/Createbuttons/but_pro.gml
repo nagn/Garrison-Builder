@@ -1,0 +1,23 @@
+{
+
+    createToolButton(redintel);
+    createToolButton(blueintel);
+    createToolButton(NeutralIntel);
+    createToolButton(redintelgate);
+    createToolButton(redintelgate2);
+    createToolButton(blueintelgate);
+    createToolButton(blueintelgate2);
+    createToolButton(intelgatevertical);
+    createToolButton(intelgatehorizontal);
+    createToolButton(controlPoint1);
+    createToolButton(controlPoint2);
+    createToolButton(controlPoint3);
+    createToolButton(controlPoint4);
+    createToolButton(controlPoint5);
+    createToolButton(NextAreaO);
+    createToolButton(SetupGate);
+    createToolButton(CapturePoint);
+    createToolButton(ArenaControlPoint);
+    createToolButton(GeneratorRed);
+    createToolButton(GeneratorBlue);
+}
