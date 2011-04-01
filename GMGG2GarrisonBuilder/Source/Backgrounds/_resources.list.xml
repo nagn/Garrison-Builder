@@ -5,5 +5,4 @@
   <resource name="levelwm" type="RESOURCE"/>
   <resource name="grid" type="RESOURCE"/>
   <resource name="gridCorner" type="RESOURCE"/>
-  <resource name="menuBG" type="RESOURCE"/>
 </resources>

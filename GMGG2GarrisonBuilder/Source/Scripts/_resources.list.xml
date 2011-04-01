@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <resources>
   <resource name="GUI" type="GROUP"/>
-  <resource name="Createbuttons" type="GROUP"/>
   <resource name="load_BG" type="RESOURCE"/>
   <resource name="load_exisMap" type="RESOURCE"/>
   <resource name="load_decomp" type="RESOURCE"/>
@@ -10,6 +9,7 @@
   <resource name="edit_BG" type="RESOURCE"/>
   <resource name="edit_WM" type="RESOURCE"/>
   <resource name="customClearSelect" type="RESOURCE"/>
+  <resource name="testMap" type="RESOURCE"/>
   <resource name="unload_BG" type="RESOURCE"/>
   <resource name="set_nextmap_red" type="RESOURCE"/>
   <resource name="set_nextmap_blu" type="RESOURCE"/>
@@ -21,6 +21,12 @@
   <resource name="load_entities" type="RESOURCE"/>
   <resource name="unload_entities" type="RESOURCE"/>
   <resource name="save_entities" type="RESOURCE"/>
+  <resource name="compressWalkmaskToString" type="RESOURCE"/>
+  <resource name="writeEntitiesToString" type="RESOURCE"/>
+  <resource name="embedLevelDataToPNG" type="RESOURCE"/>
+  <resource name="strayEntityFix" type="RESOURCE"/>
   <resource name="MapDecomps" type="GROUP"/>
-  <resource name="Compiling" type="GROUP"/>
+  <resource name="sprite2png" type="RESOURCE"/>
+  <resource name="initialize" type="RESOURCE"/>
+  <resource name="spriteForEntityType" type="RESOURCE"/>
 </resources>
